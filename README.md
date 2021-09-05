@@ -11,4 +11,3 @@
   - 💾 Programing: `Python`, `PHP`, `JS` *(Next.js?)* 
   - 🤖 Tinkering && Learning
   - 🎶 *(Listen to music)* [Spotify Playlist](https://open.spotify.com/playlist/3mFmrPELw8iCgdrW5JAzLh?si=3d937967f56e434a)
-- 💬 Discord: `Lorn Hukka#1536`
